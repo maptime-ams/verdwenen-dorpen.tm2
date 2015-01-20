@@ -1,0 +1,28 @@
+_prefs: 
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 5.6744
+  - 52.1807
+  - 8
+description: Verdwenen Dorpen
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 15
+minzoom: 6
+name: Verdwenen Dorpen
+source: "mapbox:///mapbox.mapbox-streets-v5,bertspaan.9f7c29b0"
+styles: 
+  - style.mss
+  - labels.mss
+  - roads.mss
+template: ''
