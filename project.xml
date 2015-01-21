@@ -4,7 +4,7 @@
 
 <Parameters>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">5.6744,52.1807,8</Parameter>
+  <Parameter name="center">5.7527,53.0693,11</Parameter>
   <Parameter name="description"><![CDATA[Verdwenen Dorpen]]></Parameter>
   <Parameter name="format">png8:m=h</Parameter>
   <Parameter name="maxzoom">15</Parameter>
@@ -1275,31 +1275,31 @@
   <Rule>
     <Filter>([reden] = 'concurrentie')</Filter>
     <MarkersSymbolizer fill="#ff55ff" width="8" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([reden] = 'overstuiving')</Filter>
     <MarkersSymbolizer fill="#ffff88" width="8" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([reden] = 'ontvolking')</Filter>
     <MarkersSymbolizer fill="#339933" width="8" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([reden] = 'oorlog')</Filter>
     <MarkersSymbolizer fill="#ee3322" width="8" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([reden] = 'overstroming')</Filter>
     <MarkersSymbolizer fill="#2233ff" width="8" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
   <Rule>
     <MarkersSymbolizer width="8" fill="#333333" stroke-width="0" placement="point" allow-overlap="false" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="16" wrap-width="100" placement-type="simple" placements="E,NE,SE,16,14,12,10,8" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#777777" size="13" wrap-width="100" placement-type="simple" placements="E,NE,SE,12,11,10,9" avoid-edges="true" minimum-padding="0" dy="9" dx="9" halo-fill="#eeeeee" halo-radius="1" clip="false" margin="2" ><![CDATA[[nederzetting]+'\n('+[reden]+')']]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="verdwenen-dorpen"

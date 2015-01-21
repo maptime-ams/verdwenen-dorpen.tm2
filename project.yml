@@ -10,9 +10,9 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - 5.6744
-  - 52.1807
-  - 8
+  - 5.7527
+  - 53.0693
+  - 11
 description: Verdwenen Dorpen
 format: "png8:m=h"
 interactivity_layer: ''

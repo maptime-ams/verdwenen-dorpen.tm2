@@ -20,16 +20,16 @@
   marker-placement: point;
   marker-allow-overlap: false;
   
-  text-name: [nederzetting];
+  text-name: [nederzetting] + '\n(' + [reden] + ')';
   text-face-name: @sans_bold;
   text-fill: @text;
-  text-size: 16;
+  text-size: 13;
   
   text-wrap-width: 100px;
 
   //text-dx: 8px;
   text-placement-type: simple;
-  text-placements: "E,NE,SE,16,14,12,10,8";
+  text-placements: "E,NE,SE,12,11,10,9";
   //text-placements: "E,N,S,W,NE,SE,NW,SW,16,14,12";
   text-avoid-edges: true;
   text-min-padding: 0;
